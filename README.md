@@ -5,6 +5,13 @@
 
 <p align="center">Soy AnibaL <strong>Programador de sistemas web PHP</strong> con +3 años de experiencia.<br />¡Revisa mis Repositorios 👇!</p>
 <br />
+### Stack technological
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,docker,nodejs,prisma,express,astro,react,javascript,jquery,css,tailwind,bootstrap,html,github,gitlab,vscode,postman,aws,cloudflare,linux" />
+  </a>
+</p>
+<br />
 ### 📊 GitHub datos estadísticos:
 <br />
 <table  width="100%">
