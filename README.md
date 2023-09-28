@@ -4,7 +4,21 @@
 </p>
 
 <p align="center">Soy AnibaL <strong>Programador de sistemas web PHP</strong> con +3 años de experiencia.<br />¡Revisa mis Repositorios 👇!</p>
-
+<br />
+### 📊 GitHub datos estadísticos:
+<br />
+<table  width="100%">
+   <tbody>
+      <tr>
+         <td width="50%">
+            <img  width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=loxi1&amp;theme=default&amp;show_icons=true&amp;hide_border=false&amp;layout=compact" alt="github top languages">
+         </td>         
+         <td width="50%">
+            <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=loxi1&amp;theme=default&amp;hide_border=false" alt="github streak">
+         </td>
+      </tr>
+   </tbody>
+</table>
 
 <!--!
 
