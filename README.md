@@ -5,7 +5,7 @@
 
 <p align="center">Soy AnibaL <strong>Programador de sistemas web PHP</strong> con +3 años de experiencia.<br />¡Revisa mis Repositorios 👇!</p>
 <br />
-### Stack technological
+### Stack tecnológico
 <div>
 	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="PHP" title="PHP"/></code>
    <code><img width="40" src="https://www.svgrepo.com/show/353579/codeigniter.svg" alt="Codeigniter" title="Codeigniter"/></code>
