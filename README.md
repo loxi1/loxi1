@@ -41,6 +41,7 @@
    <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" title="Tailwind"/></code>
 	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" title="HTML"/></code>   
 	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Astro.svg" alt="Astro" title="Astro"/></code>
+   <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" alt="Astro" title="Astro"/></code>
    <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Cloudflare-Dark.svg" alt="CloudFlare" title="CloudFlare"/></code>
 </div>
 <br />
