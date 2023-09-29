@@ -10,6 +10,10 @@
 	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="PHP" title="PHP"/></code>
    <code><img width="40" src="https://www.svgrepo.com/show/353579/codeigniter.svg" alt="Codeigniter" title="Codeigniter"/></code>
 	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Laravel-Dark.svg" alt="Laravel" title="Laravel"/></code>
+   <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL" title="MySQL"/></code>
+	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDB" title="MariaDB"/></code>
+   <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="Docker" title="Docker"/></code>
    <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" alt="Postman" title="Postman"/></code>
    <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
    <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/></code>
@@ -26,13 +30,6 @@
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code>
 	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/></code>
-</div>
-<br />
-<div>   
-	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL" title="MySQL"/></code>
-	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDB" title="MariaDB"/></code>
-   <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="Docker" title="Docker"/></code>
 </div>
 <br />
 <div>
