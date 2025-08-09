@@ -1,5 +1,5 @@
 <p align="center">
-   <img align="center" height="120" src="https://avatars.githubusercontent.com/u/2625404?s=400&u=5f243d92e3aac69c2b326dd1ffd5c1d5cdb434d1&v=4" />
+   <img align="center" height="120" alt="Anibal Cayetano" src="https://github.com/user-attachments/assets/ffeaca59-2605-4a4d-8ae5-dde582cce9d2" />
    <h3 align="center">¡Hola, soy Aníbal Cayetano! 👋</h3>
 </p>
 
