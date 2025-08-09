@@ -1,67 +1,67 @@
-<p align="center" width="300">
-   <img align="center"  height="120" src="https://github-production-user-asset-6210df.s3.amazonaws.com/2625404/271164519-ed04fe4e-9689-4c18-83e1-4651753e7895.png" />
-   <h3 align="center">¡Hola Bienvenido 👋!</h3>
+<p align="center">
+   <img align="center" height="120" src="https://github-production-user-asset-6210df.s3.amazonaws.com/2625404/271164519-ed04fe4e-9689-4c18-83e1-4651753e7895.png" />
+   <h3 align="center">¡Hola, soy Aníbal Cayetano! 👋</h3>
 </p>
 
-<p align="center">Soy AnibaL <strong>Programador de sistemas web PHP</strong> con +3 años de experiencia.<br />¡Revisa mis Repositorios 👇!</p>
-<br />
-### Stack tecnológico
-<div>
-	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="PHP" title="PHP"/></code>
-   <code><img width="40" src="https://www.svgrepo.com/show/353579/codeigniter.svg" alt="Codeigniter" title="Codeigniter"/></code>
-	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Laravel-Dark.svg" alt="Laravel" title="Laravel"/></code>
-   <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL" title="MySQL"/></code>
-	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDB" title="MariaDB"/></code>
-   <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="Docker" title="Docker"/></code>
-   <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" alt="Postman" title="Postman"/></code>
-   <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
-   <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/></code>
-   
+<p align="center">
+   <strong>Full Stack Developer PHP/.NET</strong> con +8 años liderando proyectos ágiles<br>
+   ⚡ Especializado en APIs, AWS y desarrollo de sistemas empresariales ⚡
+</p>
+
+<div align="center">
+   <a href="https://linkedin.com/in/jose-anibal-cayetano-meza" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+   <a href="https://portafoliophp.anibalcayetano.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
+   </a>
+   <a href="mailto:anibal.cayetano@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   </a>
 </div>
-<br />
-<div>
-	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="Node.js" title="Node.js"/></code>
-   <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" alt="Prisma" title="Prisma"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png" alt="Fastify" title="Fastify"/></code>
-	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="Express" title="Express"/></code>
-   <code><img width="40" src="https://portafolio.anibalcayetano.com/imagenes/portafolio/jwt.svg" alt="JWT" title="JWT"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code>
-	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/></code>
+
+---
+
+### 🛠️ **Tech Stack**  
+#### **Backend & DevOps**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+
+#### **Frontend & Mobile**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+
+#### **Bases de Datos**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+
+---
+
+### 🔥 **Proyectos Destacados**  
+| Proyecto | Tecnologías | Logro |
+|----------|------------|-------|
+| [Sistema de Control de Despacho](https://github.com/loxi1/control-despacho) | PHP, .NET, Android, AWS | Redujo tiempos de proceso en 30% en COFACO |
+| [ERP para Restaurantes](https://github.com/loxi1/goerp) | PHP, CodeIgniter, MySQL | Implementó SCRUM para entregas ágiles |
+| [API REST para SAP](https://github.com/loxi1/api-sap) | Node.js, Fastify, JWT | Integración con sistemas corporativos |
+
+---
+
+### 📊 **GitHub Stats**  
+<div align="center">
+   <img height="160" src="https://github-readme-stats.vercel.app/api?username=loxi1&show_icons=true&theme=radical" />
+   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loxi1&layout=compact&theme=radical" />
 </div>
-<br />
-<div>
-   <code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JS" title="JS"/></code>
-   <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JQuery.svg" alt="JQuery" title="JQuery"/></code>
-   <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="ReactJS" title="ReactJS"/></code>
-   <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS" title="CSS"/></code>
-	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" alt="Boostrap" title="Boostrap"/></code>
-   <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" title="Tailwind"/></code>
-	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" title="HTML"/></code>   
-	<code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Astro.svg" alt="Astro" title="Astro"/></code>
-   <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" alt="Astro" title="Astro"/></code>
-   <code><img width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Cloudflare-Dark.svg" alt="CloudFlare" title="CloudFlare"/></code>
-</div>
-<br />
-### 📊 GitHub datos estadísticos:
-<br />
-<img  width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=loxi1&amp;theme=default&amp;show_icons=true&amp;hide_border=false&amp;layout=compact" alt="github top languages">
 
-<!--!
+---
 
-**loxi1/loxi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
--->
+### 📫 **¿Trabajamos juntos?**  
+¡Contáctame para oportunidades como **Desarrollador Full Stack o Líder Técnico**!  
+📧 **anibal.cayetano@gmail.com** | 📞 **+51 951 609 501**
