@@ -43,6 +43,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![Sybase](https://img.shields.io/badge/Sybase-FFD520?logo=sybase&logoColor=black)
+![DB2](https://img.shields.io/badge/IBM%20DB2-052FAD?logo=ibm&logoColor=white)
 ---
 
 ### 🔥 **Proyectos Destacados**  
